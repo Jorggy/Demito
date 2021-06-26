@@ -10,3 +10,4 @@ function Perro (){
 const Elemento = ()=> {
     return "Khe!"
 }
+const OtroPerro = "Gato"
